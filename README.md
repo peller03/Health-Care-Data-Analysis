@@ -10,7 +10,6 @@
 - [Data Analysis](#data-analysis)
 - [Results / Findings](#results--findings)
 - [Recommendations](#recommendations)
-- [Limitations](#limitations)
 
 ### Project Scope
 This project analyzes clinical activity, patient encounters, diagnoses, and financial performance using Power BI.  
