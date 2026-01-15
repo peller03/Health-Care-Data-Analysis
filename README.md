@@ -23,10 +23,7 @@ The dashboard is designed to support:
 
 
 ![Health-Project_page-0001](https://github.com/user-attachments/assets/65982367-f67b-4e97-9388-6f0f627c8176)
-![Health-Project_page-0002](https://github.com/user-attachments/assets/516f949d-2a41-4b07-88f9-02a5374cce8d)
-![Health-Project_page-0003](https://github.com/user-attachments/assets/e0714b9d-c9da-4849-841f-3656a870ef61)
-![_572_Health-Project_page-0001__9048_Health-Project_page-0002__8262_3](https://github.com/user-attachments/assets/eb5bcb80-037c-43f4-ae56-8d2ac672ac3e)
-
+ 
 ---
 
 ### Data Sources
